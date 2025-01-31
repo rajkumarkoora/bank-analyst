@@ -1,4 +1,5 @@
 # bank-analyst
+![Recording bank 11](https://github.com/user-attachments/assets/f5b25c8c-85fb-4045-82bb-f8354dc134f8)
 
 Developed interactive dashboards to analyze loan disbursement trends, borrower verification impact, and regional borrowing patterns using SQL, Power BI, and Tableau.
 
